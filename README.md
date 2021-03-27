@@ -59,3 +59,9 @@ Contributors
 * Mark Galloway
 * Abram Hindle
 * Cole Mackenzie
+* Zijian Xi
+
+Reference
+============
+* [WebSocketsExamples](https://github.com/abramhindle/WebSocketsExamples/blob/master/chat.py) By Abram Hindle, 2013
+* [WebSocket Docs](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket) By Feb 20, 2021, by [MDN contributors](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket/contributors.txt)
